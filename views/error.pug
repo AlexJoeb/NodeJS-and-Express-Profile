@@ -1,0 +1,10 @@
+extends layout.pug
+
+block content
+    .error-wrapper(style="padding-left: 10px; padding-top: 20px;")
+        h1=err.status
+        h4=err.message
+        p Click
+            a.herelink(href="/") here
+            | to return to the home page.
+        p=err.stack

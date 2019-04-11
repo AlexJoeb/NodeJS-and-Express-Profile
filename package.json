@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-and-express-profile",
+  "version": "0.1.0",
+  "description": "Team Treehouse NodeJS and Express Portfolio Profile",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Besse",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.16.4",
+    "pug": "^2.0.3"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}

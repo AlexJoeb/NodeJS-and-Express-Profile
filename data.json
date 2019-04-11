@@ -1,0 +1,64 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "JavaScript Game Application",
+            "description": "This is an interactive and fun recreation of a popular game Jeopardy.",
+            "livelink": "https://alexjoeb.github.io/Full-Stack-JavaScript-Game-App/",
+            "github": "https://github.com/AlexJoeb/Full-Stack-JavaScript-Game-App",
+            "images": {
+                "thumbnail": "/static/images/game-app-1.png",
+                "others": ["/static/images/game-app-2.png", "/static/images/game-app-3.png", "/static/images/game-app-4.png"]
+            },
+            "skills": ["HTML5", "CSS3", "ES6 JavaScript", "ES6 Classes"]
+        },
+        {
+            "id": 1,
+            "project_name": "Random Quote Generator",
+            "description": "Here is a simple quote generator, all the best quotes you shoud know.",
+            "livelink": "https://alexjoeb.github.io/Random-Quote-Generator/",
+            "github": "https://github.com/AlexJoeb/Random-Quote-Generator",
+            "images": {
+                "thumbnail": "/static/images/quote-1.png",
+                "others": ["/static/images/quote-2.png", "/static/images/quote-3.png", "/static/images/quote-4.png"]
+            },
+            "skills": ["HTML5", "CSS3", "ES6 JavaScript"]
+        },
+        {
+            "id": 2,
+            "project_name": "Employee List Pagination and Filter",
+            "description": "This project uses JavaScript to calculate pagination among a list of employees. The project also paginates when you search emplyees.",
+            "livelink": "https://alexjoeb.github.io/List-Pagination-and-Filtering/",
+            "github": "https://github.com/AlexJoeb/List-Pagination-and-Filtering",
+            "images": {
+                "thumbnail": "/static/images/pagination-1.png",
+                "others": ["/static/images/pagination-2.png", "/static/images/pagination-3.png", "/static/images/pagination-4.png"]
+            },
+            "skills": ["HTML5", "CSS3", "ES6 JavaScript", "Pagination"]
+        },
+        {
+            "id": 3,
+            "project_name": "Local API Requests",
+            "description": "This project uses API requests to fill out an employee directory.",
+            "livelink": "https://alexjoeb.github.io/Local-API-Requests/",
+            "github": "https://github.com/AlexJoeb/Local-API-Requests",
+            "images": {
+                "thumbnail": "/static/images/localapi-1.png",
+                "others": ["/static/images/localapi-2.png", "/static/images/localapi-3.png", "/static/images/localapi-4.png"]
+            },
+            "skills": ["HTML5", "CSS3", "ES6 JavaScript", "API Requests"]
+        },
+        {
+            "id": 4,
+            "project_name": "Interactive Web Form",
+            "description": "Here is an interative web form for signing up for a convention!",
+            "livelink": "https://alexjoeb.github.io/Interactive-Form/",
+            "github": "https://github.com/AlexJoeb/Interactive-Form",
+            "images": {
+                "thumbnail": "/static/images/interactive-webform-1.png",
+                "others": ["/static/images/interactive-webform-2.png", "/static/images/interactive-webform-3.png", "/static/images/interactive-webform-4.png"]
+            },
+            "skills": ["HTML5", "CSS3", "ES6 JavaScript", "Regex Validation"]
+        }
+    ]
+  }
