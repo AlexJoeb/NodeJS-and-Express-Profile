@@ -5,6 +5,10 @@ const { projects } = require("../data.json");
 
 router.get("/:id", (req, res) => {
     const id = req.params.id;
+    console.log(projects.length);
+    if(id >= projects.length || id < 0){
+        return res.redirect('/');
+    }
     res.render('project', {
         project: getProjectById(id),
     });
